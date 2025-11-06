@@ -109,6 +109,7 @@ SELECT
   column_name,
   restricted_users
 FROM `PROJECT.DATASET.masking_policies`
+```
 
 Process:
 
