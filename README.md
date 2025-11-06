@@ -111,7 +111,7 @@ SELECT
 FROM `PROJECT.DATASET.masking_policies`
 ```
 
-## 📄 Process: 
+## 📄 Process sumary: 
 
 🏷️ Create New Taxonomy
 Uses datacatalog_v1.PolicyTagManagerClient().create_taxonomy().
