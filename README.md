@@ -111,7 +111,7 @@ SELECT
 FROM `PROJECT.DATASET.masking_policies`
 ```
 
-Process:
+## 📄 Process: 
 
 🏷️ Create New Taxonomy
 Uses datacatalog_v1.PolicyTagManagerClient().create_taxonomy().
@@ -152,7 +152,6 @@ pandas
 🧪 Example Sheet
 project_id	dataset_id	table_id	column_name	restricted_users
 my_project	sales_data	orders	    customer_id	user1@test.com
-
 
 
 📬 Contact
