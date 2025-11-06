@@ -148,12 +148,6 @@ Cloud Functions / Airflow (Composer)
 🐍 Python
 pandas
 
-
-🧪 Example Sheet
-project_id	dataset_id	table_id	column_name	restricted_users
-my_project	sales_data	orders	    customer_id	user1@test.com
-
-
 📬 Contact
 Created by Emiliano Rigueiro
 💼 Data Engineer | GCP | Python | BigQuery
