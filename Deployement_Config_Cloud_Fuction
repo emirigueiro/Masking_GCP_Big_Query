@@ -1,0 +1,10 @@
+gcloud functions deploy masking-process \
+  --region=us-central1 \
+  --runtime=python311 \
+  --trigger-http \
+  --entry-point=main \
+  --memory=1024MB \
+  --timeout=540s \
+  --allow-unauthenticated
+
+
