@@ -12,6 +12,17 @@ The process reads the policies defined in the Sheet (previously uploaded to a **
 
 ---
 
+## 🧠 Project Files
+
+1. main.py: This is the Cloud Fuction, ready to deployed.
+2. requirements.txt: File with all the Cloud fuction (main.py) dependencies.
+3. Deployement_Config_Cloud_Fuction: The requeired configuration to deployed the Cloud Fuction on GCP.
+4. Masking_DAG.py: The DAG ready to deployed on Composer (GCP).
+5. masking_policies Sheet.csv: Example sheet with the necesaries files to test the process. 
+
+---
+
+
 ## ⚙️ Process Overview
 
 1. 📥 Download a CSV file with the policy configuration from a **GCS bucket**.  
