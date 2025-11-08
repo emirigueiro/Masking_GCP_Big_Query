@@ -161,4 +161,4 @@ pandas
 
 📬 Contact
 Created by Emiliano Rigueiro
-💼 Data Engineer | GCP | Python | BigQuery
+💼 Data Engineer 
