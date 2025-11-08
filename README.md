@@ -12,7 +12,7 @@ The process reads the policies defined in the Sheet (previously uploaded to a **
 
 ---
 
-## 🧠 Project Files
+## 🗃️ Project Files
 
 1. main.py: This is the Cloud Fuction, ready to deployed.
 2. requirements.txt: File with all the Cloud fuction (main.py) dependencies.
